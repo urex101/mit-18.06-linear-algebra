@@ -28,8 +28,8 @@ Solutions are handwritten, then graded against MIT's published official solution
 | [The Four Fundamental Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/) | 1.10 | ⬜ | |
 | [Matrix Spaces; Rank 1; Small World Graphs](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/) | 1.11 | ⬜ | |
 | [Graphs, Networks, Incidence Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/) | 1.12 | ⬜ | |
-| [Exam 1 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1-review/) | — | ⬜ | |
-| [Exam 1](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1/) | — | ⬜ | |
+| [Exam 1 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1-review/) | no problem set | ⬜ | |
+| [Exam 1](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1/) | no problem set | ⬜ | |
 | **[Unit 2: Least Squares, Determinants and Eigenvalues](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/)** | | | |
 | [Orthogonal Vectors and Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/) | 2.1 | ⬜ | |
 | [Projections onto Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/) | 2.2 | ⬜ | |
@@ -53,11 +53,11 @@ Solutions are handwritten, then graded against MIT's published official solution
 | [Linear Transformations and their Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/linear-transformations-and-their-matrices/) | 3.6 | ⬜ | |
 | [Change of Basis; Image Compression](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/change-of-basis-image-compression/) | 3.7 | ⬜ | |
 | [Left and Right Inverses; Pseudoinverse](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/) | 3.8 | ⬜ | |
-| [Exam 3 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/exam-3-review/) | — | ⬜ | |
-| [Exam 3](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/exam-3/) | — | ⬜ | |
+| [Exam 3 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/exam-3-review/) | no problem set | ⬜ | |
+| [Exam 3](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/exam-3/) | no problem set | ⬜ | |
 | **Course Wrap-Up** | | | |
-| [Final Course Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/final-course-review/) | — | ⬜ | |
-| [Final Exam](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/final-exam/) | — | ⬜ | |
+| [Final Course Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/final-course-review/) | no problem set | ⬜ | |
+| [Final Exam](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/final-exam/) | no problem set | ⬜ | |
 
 ## Topics covered
 
