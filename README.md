@@ -26,7 +26,7 @@ Solutions are handwritten, then graded against MIT's published official solution
 | [Solving Ax = 0: Pivot Variables, Special Solutions](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/) | 1.7 | [✅](PSETS/Pset1.7) | 2026-07-23 |
 | [Solving Ax = b: Row Reduced Form R](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/solving-ax-b-row-reduced-form-r/) | 1.8 | [✅](PSETS/Pset1.8) | 2026-08-01 |
 | [Independence, Basis and Dimension](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/independence-basis-and-dimension/) | 1.9 | [✅](PSETS/Pset1.9) | 2026-08-10 |
-| [The Four Fundamental Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/) | 1.10 | ⬜ | |
+| [The Four Fundamental Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/) | 1.10 | [✅](PSETS/Pset1.10) | 2026-08-16 |
 | [Matrix Spaces; Rank 1; Small World Graphs](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/) | 1.11 | ⬜ | |
 | [Graphs, Networks, Incidence Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/) | 1.12 | ⬜ | |
 | [Exam 1 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1-review/) | no problem set | ⬜ | |
