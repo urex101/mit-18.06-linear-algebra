@@ -12,9 +12,10 @@ Solutions are handwritten, then graded against MIT's published official solution
 
 ## Progress
 
+### [Unit 1: Ax = b and the Four Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/)
+
 | Item | Problem Set | Status | Date |
 |------|-------------|--------|------|
-| **[Unit 1: Ax = b and the Four Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/)** | | | |
 | [The Geometry of Linear Equations](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/) | 1.1 | [✅](PSETS/Pset1.1) | 2026-07-04 |
 | [An Overview of Key Ideas](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/) | no problem set | ✅ | |
 | [Elimination with Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/elimination-with-matrices/) | 1.2 | [✅](PSETS/Pset1.2) | 2026-07-04 |
@@ -30,7 +31,11 @@ Solutions are handwritten, then graded against MIT's published official solution
 | [Graphs, Networks, Incidence Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/) | 1.12 | ⬜ | |
 | [Exam 1 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1-review/) | no problem set | ⬜ | |
 | [Exam 1](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1/) | no problem set | ⬜ | |
-| **[Unit 2: Least Squares, Determinants and Eigenvalues](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/)** | | | |
+
+### [Unit 2: Least Squares, Determinants and Eigenvalues](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/)
+
+| Item | Problem Set | Status | Date |
+|------|-------------|--------|------|
 | [Orthogonal Vectors and Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/) | 2.1 | ⬜ | |
 | [Projections onto Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/) | 2.2 | ⬜ | |
 | [Projection Matrices and Least Squares](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/) | 2.3 | ⬜ | |
@@ -44,7 +49,11 @@ Solutions are handwritten, then graded against MIT's published official solution
 | [Markov Matrices; Fourier Series](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series/) | 2.11 | ⬜ | |
 | [Exam 2 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/exam-2-review/) | no problem set | ⬜ | |
 | [Exam 2](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/exam-2/) | no problem set | ⬜ | |
-| **[Unit 3: Positive Definite Matrices and Applications](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/)** | | | |
+
+### [Unit 3: Positive Definite Matrices and Applications](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/)
+
+| Item | Problem Set | Status | Date |
+|------|-------------|--------|------|
 | [Symmetric Matrices and Positive Definiteness](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/) | 3.1 | ⬜ | |
 | [Complex Matrices; Fast Fourier Transform](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/) | 3.2 | ⬜ | |
 | [Positive Definite Matrices and Minima](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/positive-definite-matrices-and-minima/) | 3.3 | ⬜ | |
@@ -55,7 +64,11 @@ Solutions are handwritten, then graded against MIT's published official solution
 | [Left and Right Inverses; Pseudoinverse](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/left-and-right-inverses-pseudoinverse/) | 3.8 | ⬜ | |
 | [Exam 3 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/exam-3-review/) | no problem set | ⬜ | |
 | [Exam 3](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/exam-3/) | no problem set | ⬜ | |
-| **Course Wrap-Up** | | | |
+
+### Course Wrap-Up
+
+| Item | Problem Set | Status | Date |
+|------|-------------|--------|------|
 | [Final Course Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/final-course-review/) | no problem set | ⬜ | |
 | [Final Exam](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/final-exam/) | no problem set | ⬜ | |
 
