@@ -16,7 +16,7 @@ Solutions are handwritten, then graded against MIT's published official solution
 |------|-------------|--------|------|
 | **[Unit 1: Ax = b and the Four Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/)** | | | |
 | [The Geometry of Linear Equations](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/) | 1.1 | [✅](PSETS/Pset1.1) | 2026-07-04 |
-| [An Overview of Key Ideas](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/) | — | ✅ | |
+| [An Overview of Key Ideas](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/) | no problem set | ✅ | |
 | [Elimination with Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/elimination-with-matrices/) | 1.2 | [✅](PSETS/Pset1.2) | 2026-07-04 |
 | [Multiplication and Inverse Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/) | 1.3 | [✅](PSETS/Pset1.3) | 2026-07-07 |
 | [Factorization into A = LU](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/factorization-into-a-lu/) | 1.4 | [✅](PSETS/Pset1.4) | 2026-07-11 |
