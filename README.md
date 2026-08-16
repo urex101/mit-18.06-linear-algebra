@@ -42,8 +42,8 @@ Solutions are handwritten, then graded against MIT's published official solution
 | [Diagonalization and Powers of A](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/diagonalization-and-powers-of-a/) | 2.9 | ⬜ | |
 | [Differential Equations and exp(At)](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/differential-equations-and-exp-at/) | 2.10 | ⬜ | |
 | [Markov Matrices; Fourier Series](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/markov-matrices-fourier-series/) | 2.11 | ⬜ | |
-| [Exam 2 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/exam-2-review/) | — | ⬜ | |
-| [Exam 2](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/exam-2/) | — | ⬜ | |
+| [Exam 2 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/exam-2-review/) | no problem set | ⬜ | |
+| [Exam 2](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/exam-2/) | no problem set | ⬜ | |
 | **[Unit 3: Positive Definite Matrices and Applications](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/)** | | | |
 | [Symmetric Matrices and Positive Definiteness](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/symmetric-matrices-and-positive-definiteness/) | 3.1 | ⬜ | |
 | [Complex Matrices; Fast Fourier Transform](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/positive-definite-matrices-and-applications/complex-matrices-fast-fourier-transform-fft/) | 3.2 | ⬜ | |
