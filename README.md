@@ -28,7 +28,7 @@ Solutions are handwritten, then graded against MIT's published official solution
 | [Independence, Basis and Dimension](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/independence-basis-and-dimension/) | 1.9 | [✅](PSETS/Pset1.9) | 2026-08-10 |
 | [The Four Fundamental Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/) | 1.10 | [✅](PSETS/Pset1.10) | 2026-08-16 |
 | [Matrix Spaces; Rank 1; Small World Graphs](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/) | 1.11 | [✅](PSETS/Pset1.11) | 2026-08-23 |
-| [Graphs, Networks, Incidence Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/) | 1.12 | ⬜ | |
+| [Graphs, Networks, Incidence Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/) | 1.12 | [✅](PSETS/Pset1.12) | 2026-08-27 |
 | [Exam 1 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1-review/) | no problem set | ⬜ | |
 | [Exam 1](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1/) | no problem set | ⬜ | |
 
