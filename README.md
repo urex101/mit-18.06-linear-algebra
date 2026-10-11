@@ -13,7 +13,7 @@ Solutions are handwritten, then graded against MIT's published official solution
 ## Progress
 
 ### [Unit 1: Ax = b and the Four Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/)
-#### [Notes](LIN_NOTES/Gilbert’s 18.06SC(first Chap).pdf)
+#### [Notes](LIN_NOTES/Gilbert’s18.06SC(firstChap).pdf)
 | Item | Problem Set | Status | Date |
 |------|-------------|--------|------|
 | [The Geometry of Linear Equations](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/) | 1.1 | [✅](PSETS/Pset1.1) | 2026-07-04 |
