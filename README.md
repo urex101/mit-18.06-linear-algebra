@@ -10,8 +10,6 @@ Solutions are handwritten, then graded against MIT's published official solution
 
 ## Progress
 
-## Progress
-
 ### [Unit 1: Ax = b and the Four Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/)
 #### [Notes for Unit 1](LIN_NOTES/Gilbert’s_18.06SC(first_Chap).pdf)
 | Item | Problem Set | Status | Date |
