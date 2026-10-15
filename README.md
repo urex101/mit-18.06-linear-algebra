@@ -34,7 +34,7 @@ Solutions are handwritten, then graded against MIT's published official solution
 
 | Item | Problem Set | Status | Date |
 |------|-------------|--------|------|
-| [Orthogonal Vectors and Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/) | 2.1 | ⬜ | |
+| [Orthogonal Vectors and Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/) | 2.1 | [✅](PSETS/Pset2.1) | 2026-10-15 |
 | [Projections onto Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/) | 2.2 | ⬜ | |
 | [Projection Matrices and Least Squares](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/) | 2.3 | ⬜ | |
 | [Orthogonal Matrices and Gram-Schmidt](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/) | 2.4 | ⬜ | |
