@@ -14,19 +14,19 @@ Solutions are handwritten, then graded against MIT's published official solution
 #### [Notes for Unit 1](LIN_NOTES/Gilbert’s_18.06SC(first_Chap).pdf)
 | Item | Problem Set | Status | Date | Grade |
 |------|-------------|--------|------|-------|
-| [The Geometry of Linear Equations](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/) | 1.1 | [✅](PSETS/Pset1.1) | 2026-07-03 | |
+| [The Geometry of Linear Equations](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-geometry-of-linear-equations/) | 1.1 | [✅](PSETS/Pset1.1) | 2026-07-03 | 100% |
 | [An Overview of Key Ideas](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/an-overview-of-key-ideas/) | no problem set | ✅ | 2026-07-04 | |
-| [Elimination with Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/elimination-with-matrices/) | 1.2 | [✅](PSETS/Pset1.2) | 2026-07-04 | |
-| [Multiplication and Inverse Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/) | 1.3 | [✅](PSETS/Pset1.3) | 2026-07-07 | |
-| [Factorization into A = LU](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/factorization-into-a-lu/) | 1.4 | [✅](PSETS/Pset1.4) | 2026-07-11 | |
-| [Transposes, Permutations, Vector Spaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/) | 1.5 | [✅](PSETS/Pset1.5) | 2026-07-13 | |
-| [Column Space and Nullspace](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/column-space-and-nullspace/) | 1.6 | [✅](PSETS/Pset1.6) | 2026-07-19 | |
-| [Solving Ax = 0: Pivot Variables, Special Solutions](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/) | 1.7 | [✅](PSETS/Pset1.7) | 2026-07-23 | |
-| [Solving Ax = b: Row Reduced Form R](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/solving-ax-b-row-reduced-form-r/) | 1.8 | [✅](PSETS/Pset1.8) | 2026-08-01 | |
-| [Independence, Basis and Dimension](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/independence-basis-and-dimension/) | 1.9 | [✅](PSETS/Pset1.9) | 2026-08-10 | |
-| [The Four Fundamental Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/) | 1.10 | [✅](PSETS/Pset1.10) | 2026-08-16 | |
-| [Matrix Spaces; Rank 1; Small World Graphs](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/) | 1.11 | [✅](PSETS/Pset1.11) | 2026-08-23 | |
-| [Graphs, Networks, Incidence Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/) | 1.12 | [✅](PSETS/Pset1.12) | 2026-08-27 | |
+| [Elimination with Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/elimination-with-matrices/) | 1.2 | [✅](PSETS/Pset1.2) | 2026-07-04 | 100% |
+| [Multiplication and Inverse Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/multiplication-and-inverse-matrices/) | 1.3 | [✅](PSETS/Pset1.3) | 2026-07-07 | 100% |
+| [Factorization into A = LU](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/factorization-into-a-lu/) | 1.4 | [✅](PSETS/Pset1.4) | 2026-07-11 | 100% |
+| [Transposes, Permutations, Vector Spaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/transposes-permutations-vector-spaces/) | 1.5 | [✅](PSETS/Pset1.5) | 2026-07-13 | 92.9% |
+| [Column Space and Nullspace](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/column-space-and-nullspace/) | 1.6 | [✅](PSETS/Pset1.6) | 2026-07-19 | 100% |
+| [Solving Ax = 0: Pivot Variables, Special Solutions](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/solving-ax-0-pivot-variables-special-solutions/) | 1.7 | [✅](PSETS/Pset1.7) | 2026-07-23 | 100% |
+| [Solving Ax = b: Row Reduced Form R](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/solving-ax-b-row-reduced-form-r/) | 1.8 | [✅](PSETS/Pset1.8) | 2026-08-01 | 100% |
+| [Independence, Basis and Dimension](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/independence-basis-and-dimension/) | 1.9 | [✅](PSETS/Pset1.9) | 2026-08-10 | 80% |
+| [The Four Fundamental Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/the-four-fundamental-subspaces/) | 1.10 | [✅](PSETS/Pset1.10) | 2026-08-16 | 100% |
+| [Matrix Spaces; Rank 1; Small World Graphs](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/matrix-spaces-rank-1-small-world-graphs/) | 1.11 | [✅](PSETS/Pset1.11) | 2026-08-23 | 80% |
+| [Graphs, Networks, Incidence Matrices](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/graphs-networks-incidence-matrices/) | 1.12 | [✅](PSETS/Pset1.12) | 2026-08-27 | 88.9% |
 | [Exam 1 Review](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1-review/) | no problem set | ✅ | 2026-09-20 | |
 | [Exam 1](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/ax-b-and-the-four-subspaces/exam-1/) | no problem set | [✅](EXAMS/EXAM1) | 2026-10-11 | 77.5% |
 
@@ -34,7 +34,7 @@ Solutions are handwritten, then graded against MIT's published official solution
 
 | Item | Problem Set | Status | Date | Grade |
 |------|-------------|--------|------|-------|
-| [Orthogonal Vectors and Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/) | 2.1 | [✅](PSETS/Pset2.1) | 2026-10-15 | |
+| [Orthogonal Vectors and Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/) | 2.1 | [✅](PSETS/Pset2.1) | 2026-10-15 | 66.7% |
 | [Projections onto Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/) | 2.2 | ⬜ | | |
 | [Projection Matrices and Least Squares](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/) | 2.3 | ⬜ | | |
 | [Orthogonal Matrices and Gram-Schmidt](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/) | 2.4 | ⬜ | | |
@@ -76,7 +76,7 @@ Systems of linear equations and elimination, matrix operations and inverses, LU 
 
 ## Why
 
-Building the mathematical foundation for a career in quantitative trading — linear algebra underpins regression, portfolio variance, covariance estimation, and most of the numerical methods used in the field. Studied alongside 14.01/14.02 (economics), 6.041 (probability), and CS50P (Python).
+Building the mathematical foundation for a career in quantitative trading: linear algebra underpins regression, portfolio variance, covariance estimation, and most of the numerical methods used in the field. Studied alongside 14.01/14.02 (economics), 6.041 (probability), and CS50P (Python).
 
 ## Source
 
