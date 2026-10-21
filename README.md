@@ -36,7 +36,7 @@ Solutions are handwritten, then graded against MIT's published official solution
 |------|-------------|--------|------|-------|
 | [Orthogonal Vectors and Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/orthogonal-vectors-and-subspaces/) | 2.1 | [✅](PSETS/Pset2.1) | 2026-10-15 | 66.7% |
 | [Projections onto Subspaces](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/projections-onto-subspaces/) | 2.2 | [✅](PSETS/Pset2.2) | 2026-10-19 | 80% |
-| [Projection Matrices and Least Squares](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/) | 2.3 | ⬜ | | |
+| [Projection Matrices and Least Squares](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/projection-matrices-and-least-squares/) | 2.3 | [✅](PSETS/Pset2.3) | 2026-10-21 | 100% |
 | [Orthogonal Matrices and Gram-Schmidt](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/orthogonal-matrices-and-gram-schmidt/) | 2.4 | ⬜ | | |
 | [Properties of Determinants](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/properties-of-determinants/) | 2.5 | ⬜ | | |
 | [Determinant Formulas and Cofactors](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/pages/least-squares-determinants-and-eigenvalues/determinant-formulas-and-cofactors/) | 2.6 | ⬜ | | |
